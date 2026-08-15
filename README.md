@@ -13,7 +13,7 @@ Syntax highlighting for SOFiSTiK structural analysis software. Provides grammar 
 
 ## Installation
 
-To install `language-sofistik` search for [language-sofistik](https://web.pulsar-edit.dev/packages/language-sofistik) in the Install pane of the Pulsar settings or run `ppm install language-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-language-sofistik` to install a package directly from the GitHub repository.
+To install `language-sofistik` search for [language-sofistik](https://web.pulsar-edit.dev/packages/language-sofistik) in the Install pane of the Pulsar settings or run `ppm install language-sofistik`. Alternatively, you can run `ppm install asiloisad-pulsar/language-sofistik` to install a package directly from the GitHub repository.
 
 ## File icons
 
