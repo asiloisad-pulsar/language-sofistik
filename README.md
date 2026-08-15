@@ -9,7 +9,7 @@ Syntax highlighting for SOFiSTiK structural analysis software. Provides grammar 
 - **Multi-version**: Keywords for SOFiSTiK versions 2018-2026.
 - **Multi-language**: English and German keyword sets.
 - **Keywords service**: Programmatic access to keywords for other packages.
-- **Outline support**: Section markers via [navigation-panel](https://github.com/asiloisad/pulsar-navigation-panel).
+- **Outline support**: Section markers via [navigation-panel](https://github.com/asiloisad-pulsar/navigation-panel).
 
 ## Installation
 
@@ -17,7 +17,7 @@ To install `language-sofistik` search for [language-sofistik](https://web.pulsar
 
 ## File icons
 
-This package does not ship file icons. Use [native-icons](https://github.com/asiloisad/pulsar-native-icons) in `support` mode to show native SOFiSTiK file icons from the operating system.
+This package does not ship file icons. Use [native-icons](https://github.com/asiloisad-pulsar/native-icons) in `support` mode to show native SOFiSTiK file icons from the operating system.
 
 Example `native-icons` config:
 
