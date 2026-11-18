@@ -2,6 +2,9 @@
 
 Syntax highlighting for SOFiSTiK structural analysis software. Provides grammar for input files with multi-version keyword support and programmatic API.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [language-sofistik](https://github.com/lumine-code/language-sofistik) and [language-log](https://github.com/lumine-code/language-log).
+
 ## Features
 
 - **Syntax highlighting**: Complete support for `.dat`, `.gra`, `.grb`, `.results` files.
